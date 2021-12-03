@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactthappa/static/css/main.c4a8dad7.chunk.css",
+    "main.js": "/reactthappa/static/js/main.246f84a5.chunk.js",
+    "main.js.map": "/reactthappa/static/js/main.246f84a5.chunk.js.map",
+    "runtime-main.js": "/reactthappa/static/js/runtime-main.74893d0f.js",
+    "runtime-main.js.map": "/reactthappa/static/js/runtime-main.74893d0f.js.map",
+    "static/js/2.3dbd9900.chunk.js": "/reactthappa/static/js/2.3dbd9900.chunk.js",
+    "static/js/2.3dbd9900.chunk.js.map": "/reactthappa/static/js/2.3dbd9900.chunk.js.map",
+    "static/js/3.bf1ffd1d.chunk.js": "/reactthappa/static/js/3.bf1ffd1d.chunk.js",
+    "static/js/3.bf1ffd1d.chunk.js.map": "/reactthappa/static/js/3.bf1ffd1d.chunk.js.map",
+    "index.html": "/reactthappa/index.html",
+    "static/css/main.c4a8dad7.chunk.css.map": "/reactthappa/static/css/main.c4a8dad7.chunk.css.map",
+    "static/js/2.3dbd9900.chunk.js.LICENSE.txt": "/reactthappa/static/js/2.3dbd9900.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74893d0f.js",
+    "static/js/2.3dbd9900.chunk.js",
+    "static/css/main.c4a8dad7.chunk.css",
+    "static/js/main.246f84a5.chunk.js"
+  ]
+}
